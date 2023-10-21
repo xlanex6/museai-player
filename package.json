@@ -39,7 +39,7 @@
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-replace": "^4.0.0",
     "@size-limit/preset-small-lib": "^6.0.4",
-    "@sucrase/jest-plugin": "^2.2.1",
+    "@sucrase/jest-plugin": "^3.0.0",
     "@types/jest": "^26.0.24",
     "@types/jsdom": "^16.2.15",
     "@vue/test-utils": "^2.4.1",
