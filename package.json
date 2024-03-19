@@ -33,7 +33,7 @@
   "keywords": [],
   "license": "MIT",
   "devDependencies": {
-    "@microsoft/api-extractor": "7.38.0",
+    "@microsoft/api-extractor": "7.43.0",
     "@rollup/plugin-alias": "^4.0.4",
     "@rollup/plugin-commonjs": "^23.0.7",
     "@rollup/plugin-node-resolve": "^15.2.3",
@@ -42,7 +42,7 @@
     "@sucrase/jest-plugin": "^2.2.1",
     "@types/jest": "^26.0.24",
     "@types/jsdom": "^16.2.15",
-    "@vue/test-utils": "^2.4.1",
+    "@vue/test-utils": "^2.4.5",
     "codecov": "^3.8.3",
     "conventional-changelog-cli": "^2.2.2",
     "jest": "^26.6.3",
@@ -54,7 +54,7 @@
     "rollup-plugin-typescript2": "^0.36.0",
     "size-limit": "^8.2.6",
     "typescript": "^4.9.5",
-    "vue": "^3.3.6",
+    "vue": "^3.4.21",
     "yorkie": "^2.0.0"
   },
   "gitHooks": {
